@@ -1,5 +1,5 @@
-mfcc.tfrecord
-stft.tfrecord
+*.tfrecord
 *.json
 genres_original/
 images_original/
+*.csv
