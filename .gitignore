@@ -1,0 +1,5 @@
+mfcc.tfrecord
+stft.tfrecord
+*.json
+genres_original/
+images_original/
